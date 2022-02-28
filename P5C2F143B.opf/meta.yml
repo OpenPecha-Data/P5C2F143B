@@ -1,0 +1,28 @@
+id: P5C2F143B
+initial_creation_type: input
+source_metadata:
+  title: Könchok Tenpe Drönme Series
+  language: bo
+  description: 'Texts by the celebrated scholar Könchok Tenpe Drönme (dkon mchog bstan
+    pa''i sgron me, 1762–1823), who was the Third Gungthang incarnation and the 21st
+    throne-holder of Labrang Tashikhyil:'
+  volume:
+    69f523a4b56b4a02af12e27b871379c5:
+      title: Verses of Advice for Meditating on Impermanence
+      parent: Advice
+    571c458f0cec4e0b865c689906d4023a:
+      title: 'Words of Truth: An Aspiration for the Spread of the Noble Gendenpa Tradition'
+      parent: Aspiration Prayers
+    fe97e239c5cb4105aad06eb24f6f5bb5:
+      title: A Song to Aid the Recollection of Parental Kindness and Encourage the
+        Recitation of the Maṇi Mantra
+      parent: Songs
+    c91f25940dba40f88f71aeceb870398b:
+      title: An Appeal for the Prosperity of Teaching and Studying the Five Major
+        Scriptures
+      parent: Summoning Prosperity
+    05e8247bb5e64ef790c5696fc27b534c:
+      title: 'The Summoning Hook of Wish-Fulfilment: An Appeal for Prosperity'
+      parent: Summoning Prosperity
+created_at: '2022-03-01T00:31:51.674016'
+last_modified_at: '2022-03-01T00:31:51.674019'
